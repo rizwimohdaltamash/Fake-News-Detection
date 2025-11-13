@@ -78,4 +78,4 @@ Dense Layers with ReLU and Sigmoid activations
 
 Accuracy: Achieved high test accuracy on validation data.
 
-Confusion Matrix: Provides insights into model performance for real vs. fake classification
+Confusion Matrix: Provides insights into model performance for real vs. fake classification.
